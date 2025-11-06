@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.15.0" xml:lang="en-US">
+  <compounddef id="dir_343c04a3febd9eac83255f7e41c1fddf" kind="dir">
+    <compoundname>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/tests/calculator</compoundname>
+    <innerfile refid="calculator__test_8cpp">calculator_test.cpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/tests/calculator/"/>
+  </compounddef>
+</doxygen>

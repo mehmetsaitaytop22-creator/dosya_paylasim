@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.15.0" xml:lang="en-US">
+  <compound refid="class_calculator_test" kind="class"><name>CalculatorTest</name>
+    <member refid="class_calculator_test_1a16acabe39b00dc041fea47f1b99f9983" kind="function"><name>SetUp</name></member>
+    <member refid="class_calculator_test_1a49df00b9c0d435932adb5e1291ca06c4" kind="function"><name>TearDown</name></member>
+  </compound>
+  <compound refid="class_math_utility_test" kind="class"><name>MathUtilityTest</name>
+    <member refid="class_math_utility_test_1a8b5b3648bdf4b4b0870d968347186b26" kind="variable"><name>a</name></member>
+    <member refid="class_math_utility_test_1ac05460de2c43e3005d1e4db0d530f58c" kind="function"><name>SetUp</name></member>
+    <member refid="class_math_utility_test_1a560c5797ed1c41f18332585712abc46e" kind="function"><name>TearDown</name></member>
+  </compound>
+  <compound refid="namespace_coruh_1_1_calculator" kind="namespace"><name>Coruh::Calculator</name>
+  </compound>
+  <compound refid="namespace_coruh_1_1_utility" kind="namespace"><name>Coruh::Utility</name>
+  </compound>
+  <compound refid="namespacetesting" kind="namespace"><name>testing</name>
+  </compound>
+  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="calculator__test_8cpp" kind="file"><name>calculator_test.cpp</name>
+    <member refid="calculator__test_8cpp_1a7d9bab343a282353423ab2d980c8ac52" kind="function"><name>TEST_F</name></member>
+    <member refid="calculator__test_8cpp_1a5b10cd9bfcd77263a48173a3d0b5ff7b" kind="function"><name>TEST_F</name></member>
+    <member refid="calculator__test_8cpp_1acd37c4ea71846a04d2b04b3c6c3e135b" kind="function"><name>TEST_F</name></member>
+    <member refid="calculator__test_8cpp_1a885dc4f6a00c3d0b54725164c875dd25" kind="function"><name>TEST_F</name></member>
+    <member refid="calculator__test_8cpp_1aadb9113df327e8be871f5035e19beded" kind="function"><name>TEST_F</name></member>
+    <member refid="calculator__test_8cpp_1a3c04138a5bfe5d72780bb7e82a18e627" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="utility__test_8cpp" kind="file"><name>utility_test.cpp</name>
+    <member refid="utility__test_8cpp_1a1a32a39867f3edfaa2b66659f6a5f56e" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1a605cb3e19c672b332b4c1d7921a42b5b" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1a1ad95925afbf048289b545eb09c30b07" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1af0df38eee307773917515593c89960fd" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1ad25e15111202b3f7f4e51d6f25cb5094" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1a66e890cc5d1a82f9a432efb5a64222d0" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1afa0b74e33e6004da7134ebf0c6c93849" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1a75ca2c83dbb6c84cf11d97d45877aae1" kind="function"><name>TEST_F</name></member>
+    <member refid="utility__test_8cpp_1a3c04138a5bfe5d72780bb7e82a18e627" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="dir_343c04a3febd9eac83255f7e41c1fddf" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/tests/calculator</name>
+  </compound>
+  <compound refid="dir_7a712442d35703531a12e2c28db6fa60" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main</name>
+  </compound>
+  <compound refid="dir_dfe968290d3b0ee03e08f374edd30ee3" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü</name>
+  </compound>
+  <compound refid="dir_03600fe870a66f144387b5b933c0a262" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src</name>
+  </compound>
+  <compound refid="dir_3d42321209e071e1c6948045c53d5f33" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/tests</name>
+  </compound>
+  <compound refid="dir_7e3c66f5d6b4def44b80c698ab9ff356" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/tests/utility</name>
+  </compound>
+  <compound refid="dir_1a4afde38d913d075a0b415f5c06232f" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject</name>
+  </compound>
+  <compound refid="indexpage" kind="page"><name>index</name>
+  </compound>
+</doxygenindex>

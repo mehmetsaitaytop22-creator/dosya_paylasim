@@ -1,0 +1,6 @@
+C:/Users/salih/OneDrive/Masaüstü/weatherProject/build/CMakeFiles/weather_lib.dir
+C:/Users/salih/OneDrive/Masaüstü/weatherProject/build/CMakeFiles/weather_app.dir
+C:/Users/salih/OneDrive/Masaüstü/weatherProject/build/CMakeFiles/run_tests.dir
+C:/Users/salih/OneDrive/Masaüstü/weatherProject/build/CMakeFiles/test.dir
+C:/Users/salih/OneDrive/Masaüstü/weatherProject/build/CMakeFiles/edit_cache.dir
+C:/Users/salih/OneDrive/Masaüstü/weatherProject/build/CMakeFiles/rebuild_cache.dir

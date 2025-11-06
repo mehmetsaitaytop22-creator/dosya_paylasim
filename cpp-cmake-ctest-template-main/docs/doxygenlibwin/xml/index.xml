@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.15.0" xml:lang="en-US">
+  <compound refid="class_coruh_1_1_calculator_1_1_calculator" kind="class"><name>Coruh::Calculator::Calculator</name>
+    <member refid="class_coruh_1_1_calculator_1_1_calculator_1a54ca827c4b408c795576d48503eee6aa" kind="function"><name>add</name></member>
+    <member refid="class_coruh_1_1_calculator_1_1_calculator_1ad8a28a8b990342d4bfde65ab85ec7596" kind="function"><name>subtract</name></member>
+    <member refid="class_coruh_1_1_calculator_1_1_calculator_1a319373a53b4e84f92c207e4f7bb9dfce" kind="function"><name>multiply</name></member>
+    <member refid="class_coruh_1_1_calculator_1_1_calculator_1a7da73cdbcc434a4f28d614f7f036b74a" kind="function"><name>divide</name></member>
+  </compound>
+  <compound refid="class_coruh_1_1_utility_1_1_math_utility" kind="class"><name>Coruh::Utility::MathUtility</name>
+    <member refid="class_coruh_1_1_utility_1_1_math_utility_1abe3d63ed2737ae3c006bcc5732a3d01f" kind="function"><name>calculateMean</name></member>
+    <member refid="class_coruh_1_1_utility_1_1_math_utility_1aa5888ea1bef95e477a66c2dd8517b885" kind="function"><name>calculateMedian</name></member>
+    <member refid="class_coruh_1_1_utility_1_1_math_utility_1a8a30d3bb9945b043c861257596f17c30" kind="function"><name>compareDouble</name></member>
+    <member refid="class_coruh_1_1_utility_1_1_math_utility_1ac66a656b821b690761a1db545359508d" kind="function"><name>calculateMinMax</name></member>
+  </compound>
+  <compound refid="namespace_coruh" kind="namespace"><name>Coruh</name>
+  </compound>
+  <compound refid="namespace_coruh_1_1_calculator" kind="namespace"><name>Coruh::Calculator</name>
+  </compound>
+  <compound refid="namespace_coruh_1_1_utility" kind="namespace"><name>Coruh::Utility</name>
+  </compound>
+  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="calculator_8h" kind="file"><name>calculator.h</name>
+  </compound>
+  <compound refid="calculator_8cpp" kind="file"><name>calculator.cpp</name>
+  </compound>
+  <compound refid="calculatorapp_8h" kind="file"><name>calculatorapp.h</name>
+  </compound>
+  <compound refid="calculatorapp_8cpp" kind="file"><name>calculatorapp.cpp</name>
+    <member refid="calculatorapp_8cpp_1ac792f08ed5f8708833ac64a61310dd03" kind="function"><name>isOperator</name></member>
+    <member refid="calculatorapp_8cpp_1ae3f55e40ed8f0a2cde99d2b36e919cbf" kind="function"><name>precedence</name></member>
+    <member refid="calculatorapp_8cpp_1a897077446c75caaf157031854034ac9f" kind="function"><name>infixToPostfix</name></member>
+    <member refid="calculatorapp_8cpp_1af347a06ef4464029cd26e699842332cb" kind="function"><name>evaluatePostfix</name></member>
+    <member refid="calculatorapp_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="common_types_8h" kind="file"><name>commonTypes.h</name>
+  </compound>
+  <compound refid="math_utility_8h" kind="file"><name>mathUtility.h</name>
+  </compound>
+  <compound refid="math_utility_8cpp" kind="file"><name>mathUtility.cpp</name>
+  </compound>
+  <compound refid="dir_bad35f75b8301a92d81531f71447f566" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/calculator</name>
+  </compound>
+  <compound refid="dir_056cb1df8fcfab4ad951dd28d3fe50e2" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/calculatorapp</name>
+  </compound>
+  <compound refid="dir_7a712442d35703531a12e2c28db6fa60" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main</name>
+  </compound>
+  <compound refid="dir_f0a3d5ea64be014ba85d4e42cc15d9a9" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/calculator/header</name>
+  </compound>
+  <compound refid="dir_acfb7828e512c21cda578928bc800304" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/calculatorapp/header</name>
+  </compound>
+  <compound refid="dir_a7e7655ea1a5754ede9fde66d777a37d" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/utility/header</name>
+  </compound>
+  <compound refid="dir_dfe968290d3b0ee03e08f374edd30ee3" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü</name>
+  </compound>
+  <compound refid="dir_03600fe870a66f144387b5b933c0a262" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src</name>
+  </compound>
+  <compound refid="dir_46f07a387fb7605f3f89f7813a6285d3" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/calculator/src</name>
+  </compound>
+  <compound refid="dir_86df7d2bbfa01816617ad8cde1d16236" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/calculatorapp/src</name>
+  </compound>
+  <compound refid="dir_fed3ac65d8a0e406e396b0dbb1d35e7a" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/utility/src</name>
+  </compound>
+  <compound refid="dir_a5a06efdd295403244cd5a5f07827460" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject/cpp-cmake-ctest-template-main/src/utility</name>
+  </compound>
+  <compound refid="dir_1a4afde38d913d075a0b415f5c06232f" kind="dir"><name>C:/Users/salih/OneDrive/Masaüstü/weatherProject</name>
+  </compound>
+  <compound refid="indexpage" kind="page"><name>index</name>
+  </compound>
+</doxygenindex>

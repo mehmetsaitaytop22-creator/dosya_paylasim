@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Build folders
+# build/
+# build_linux/
+# build_win/
+
+# System files
+__pycache__/
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+
+# Other temporary files
+*.bak
+*.cache
+
+# C/C++ build artifacts
+*.o
+*.exe
+*.out
+
+# Binary weather data
+data/weather.bin
